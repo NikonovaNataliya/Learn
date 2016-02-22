@@ -1,0 +1,8 @@
+D:\проекты\nashalo-2\nashalo-2\bin\Debug\nashalo-2.exe.config
+D:\проекты\nashalo-2\nashalo-2\bin\Debug\nashalo-2.exe
+D:\проекты\nashalo-2\nashalo-2\bin\Debug\nashalo-2.pdb
+D:\проекты\nashalo-2\nashalo-2\obj\Debug\nashalo_2.Form1.resources
+D:\проекты\nashalo-2\nashalo-2\obj\Debug\nashalo_2.Properties.Resources.resources
+D:\проекты\nashalo-2\nashalo-2\obj\Debug\nashalo-2.csproj.GenerateResource.Cache
+D:\проекты\nashalo-2\nashalo-2\obj\Debug\nashalo-2.exe
+D:\проекты\nashalo-2\nashalo-2\obj\Debug\nashalo-2.pdb

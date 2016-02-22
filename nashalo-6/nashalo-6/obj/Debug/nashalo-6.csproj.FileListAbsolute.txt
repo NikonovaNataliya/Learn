@@ -1,0 +1,9 @@
+D:\проекты\nashalo-6\nashalo-6\bin\Debug\nashalo-6.exe.config
+D:\проекты\nashalo-6\nashalo-6\bin\Debug\nashalo-6.exe
+D:\проекты\nashalo-6\nashalo-6\bin\Debug\nashalo-6.pdb
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo-6.csprojResolveAssemblyReference.cache
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo_6.Form1.resources
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo_6.Properties.Resources.resources
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo-6.csproj.GenerateResource.Cache
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo-6.exe
+D:\проекты\nashalo-6\nashalo-6\obj\Debug\nashalo-6.pdb
