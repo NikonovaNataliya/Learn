@@ -7,3 +7,6 @@ D:\проекты\nashalo-11\nashalo-11\obj\Debug\nashalo_11.Properties.Resource
 D:\проекты\nashalo-11\nashalo-11\obj\Debug\nashalo-11.csproj.GenerateResource.Cache
 D:\проекты\nashalo-11\nashalo-11\obj\Debug\nashalo-11.exe
 D:\проекты\nashalo-11\nashalo-11\obj\Debug\nashalo-11.pdb
+D:\С#\Github2\Learn\nashalo-11\nashalo-11\bin\Debug\nashalo-11.exe.config
+D:\С#\Github2\Learn\nashalo-11\nashalo-11\obj\Debug\nashalo-11.exe
+D:\С#\Github2\Learn\nashalo-11\nashalo-11\obj\Debug\nashalo-11.pdb

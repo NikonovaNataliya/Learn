@@ -37,6 +37,7 @@ namespace nashalo_11
             {
                 this.linkLabel1.Text = massiv_imen[complicated2].ToString();
             }
+            //тестовое изменение
         }
     }
 }
